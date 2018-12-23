@@ -75,6 +75,7 @@ form input{
     height: 20px;
     background-color: burlywood;
     border-radius: 30px;
+    padding-left:15px;
 
 
 }
@@ -89,6 +90,8 @@ form input{
   background-color: burlywood;
   border: 2px solid white;
   border-radius: 30px;
+  padding-left:15px;
+
 }
 
 .buttons{
